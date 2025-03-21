@@ -1,0 +1,15 @@
+.progress-container{
+    background-color: lightgray;
+    width: 500px;
+    height: 20px;
+    overflow: hidden;
+}   
+.progress-bar{
+    min-width: 0px;
+    width: 10%;
+    background-color: green;
+    height: 20px;
+}
+button{
+    margin-top: 20px;
+}
