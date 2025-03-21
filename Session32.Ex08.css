@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div p {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    background-color: #f3f3f3;
+    padding: 8px;
+}
+
+div p span {
+    display: flex;
+    gap: 10px; 
+}

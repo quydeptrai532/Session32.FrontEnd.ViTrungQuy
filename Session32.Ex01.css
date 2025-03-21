@@ -1,0 +1,9 @@
+body{
+    border: 10px solid black;
+    height: 500px;
+    text-align: center;
+    padding: 100px;
+}
+button{
+   padding: 20px;
+}

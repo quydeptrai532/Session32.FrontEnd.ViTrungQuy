@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+}
+button:nth-of-type(1){
+    background-color: green;
+    padding: 20px;
+    font-size: 20px;
+    width: 100px;    
+}
+button:nth-of-type(2){
+    background-color: red;
+    padding: 20px;
+    font-size: 20px;
+    width: 100px;
+}
